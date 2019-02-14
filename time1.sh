@@ -3,17 +3,17 @@ echo "Start"
 while (true) 
 do
  ./75.sh;
- sleep 180; 
+ sleep 170; 
   ./50.sh;
- sleep 210; 
+ sleep 1950; 
    ./80.sh;
- sleep 300; 
+ sleep 240; 
    ./65.sh;
- sleep 210; 
+ sleep 220; 
    ./90.sh;
- sleep 180; 
+ sleep 170; 
   ./40.sh;
- sleep 180; 
+ sleep 195; 
 done;
 
 
